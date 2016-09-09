@@ -12,10 +12,7 @@
 		<iframe src="https://www.google.com/calendar/embed?src=sumathcsclub%40gmail.com&ctz=America/New_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>   
 	</div>
 </div>
-	    		
- <?php
-    include("includes/footer.php");
-    ?>
+
 
 
 
